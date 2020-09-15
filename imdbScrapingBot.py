@@ -517,7 +517,7 @@ for page in range (0,5000):
     except Exception:
       watchingtime="NA"
 
-    print("{} are our dizi time".format(watchingtime))
+    print("{} are our watching time".format(watchingtime))
 
 
 
